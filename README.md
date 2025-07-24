@@ -25,7 +25,7 @@ Administrador: puede agregar/edit ar/eliminar productos, categorías, sucursales
 
 Farmacéutico: puede registrar ventas y ver el stock disponible.
 
-📫 Contact: marcelodotirisotto@gmai.com | linkedin.com/in/marcelodoti | github.com/mdoti
+📫 Contact: marcelodotirisotto@gmai.com | www.linkedin.com/in/marcelodoti | www.github.com/mdoti
 
 --------------------
 
@@ -57,5 +57,5 @@ Admin: can add/edit/delete products, categories, branches, and view reports.
 
 Pharmacist: can log sales and check stock availability.
 
-📫 Contact: marcelodotirisotto@gmai.com | linkedin.com/in/marcelodoti | github.com/mdoti
+📫 Contact: marcelodotirisotto@gmai.com | www.linkedin.com/in/marcelodoti | www.github.com/mdoti
 
